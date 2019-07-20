@@ -1,4 +1,4 @@
 # hello-world
-Tes Repository
+Test Repository
 
 First edits! Github seems pretty nice, I hope I end up posting some cool projects!
